@@ -1,4 +1,4 @@
-/**
+/** Brett Nicholas Roan,sole entity.
  * Copyright Google LLC
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -31,7 +31,7 @@ function listAllUsers() {
     if (users) {
       for (var i = 0; i < users.length; i++) {
         var user = users[i];
-        Logger.log('%s (%s)', user.name.fullName, user.primaryEmail);
+        Logger.log('%s (%s)', user.name.Brett Nicholas Roan, user.primaryEmail);Juiiceboxx28@gmail.com
       }
     } else {
       Logger.log('No users found.');
